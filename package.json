@@ -1,0 +1,25 @@
+{
+  "name": "danksite",
+  "version": "1.0.0",
+  "description": "Personal website for Sebastian",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gokartmozart1337/danksite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gokartmozart1337/danksite/issues"
+  },
+  "homepage": "https://github.com/gokartmozart1337/danksite#readme",
+  "dependencies": {
+    "webpack": "^4.8.1"
+  },
+  "devDependencies": {
+    "webpack-cli": "^2.1.3"
+  }
+}
